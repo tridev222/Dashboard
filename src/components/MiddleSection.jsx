@@ -143,7 +143,6 @@ export default function MiddleSection() {
         </div>
       </div>
 
-      {/* Main Content */}
       <main className="p-4 flex-1 flex flex-col">
         <div className="flex justify-between items-center mb-4">
           <h1 className="text-xl font-bold text-gray-900">Dashboard</h1>

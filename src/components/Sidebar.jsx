@@ -80,7 +80,7 @@ export default function Sidebar({ className = "", onShowToast }) {
           </ul>
         </div>
 
-        {/* TOOLS Section */}
+        {/*------------------ TOOLS Section------------------------------------ */}
         <div>
           <h2 className="text-xs font-medium text-gray-400 uppercase tracking-wider mb-3 text-left">TOOLS</h2>
           <ul className="space-y-1">
